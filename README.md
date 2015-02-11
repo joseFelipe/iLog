@@ -1,3 +1,4 @@
 # iLog
 
-Webservice para integração de um sistema e-learning com a API do Zamzar(Serviço de conversão), afim de converter PPT para HTML5.
+Webservice for integrate an application e-learning with API do Zamzar(Conversion service).
+Using Apache libs.
